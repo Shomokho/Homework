@@ -11,7 +11,8 @@ This is a heading
 ## Here’s a smaller heading
 
 This is a paragraph. 
-**this will be bold**,  ~~this will be strike through~~,  _this will be underlined_
+
+**this will be bold**, ~~this will be strike through~~, <u>this will be underlined</u>
 
 ### Lists
 
