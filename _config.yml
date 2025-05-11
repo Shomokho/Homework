@@ -20,7 +20,7 @@
 
 title: Homework 2
 email:Somer27@jcu.edu
-description: >- # this means to ignore newlines until "baseurl:"
+description: # this means to ignore newlines until "baseurl:"
   Homework 2 will center on GitHub, Jekyll, 
   and Markdown, covering key aspects such as 
   GitHubs  repository management and 
